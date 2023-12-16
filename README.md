@@ -7,3 +7,7 @@ Phantom Hub is a School Unblock website, and a roblox script.
 # When Is the offical Release of the roblox script
 
 Not for long, but I have been busy lately. Phantom Hub Script will be in here.
+
+# Unblocked Games Release!!! Phantom Hub
+
+https://github.com/8l4d3y/PhantomHub/releases/tag/Games
